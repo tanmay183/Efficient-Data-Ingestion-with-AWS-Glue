@@ -1,4 +1,4 @@
-Here’s a visually appealing flowchart representation of your AWS Glue incremental data load pipeline:  
+ 
 
 ---
 
